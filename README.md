@@ -7,5 +7,6 @@ You can find the zip files [here](https://github.com/AnimatedCircuits/ACRackModu
 ## Modules
 
 ### itCz
+![](images/itCz.png)
 A simple phase distortion oscillator using the same principles as the cz synths of the 80s.
 
