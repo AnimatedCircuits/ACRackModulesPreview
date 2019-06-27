@@ -1,5 +1,5 @@
 # ACRackModulesPreview
-Not yet fully released [VCV Rack](https://github.com/VCVRack/Rack) v1 modules
+Not yet fully released [VCV Rack](https://vcvrack.com/Rack.html) v1 modules
 
 This Rack plugin is composed of modules which are in released state but not distributed in open source form.
 
