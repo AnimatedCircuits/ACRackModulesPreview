@@ -6,9 +6,9 @@ You can find the zip files [here](https://github.com/AnimatedCircuits/ACRackModu
 
 ## Modules
 
-### itCz
-![](images/itCz.PNG?raw=true)
-![](images/CzRider.PNG?raw=true)
+### itCz & CzRider
+![](images/itCz.png?raw=true)
+![](images/CzRider.png?raw=true)
 
 Two phase distortion oscillators using the same principles as the [cz synths of the 80s](https://en.wikipedia.org/wiki/Phase_distortion_synthesis).
 
