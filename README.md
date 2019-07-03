@@ -8,6 +8,12 @@ You can find the zip files [here](https://github.com/AnimatedCircuits/ACRackModu
 
 ### itCz
 ![](images/itCz.PNG?raw=true)
-A simple phase distortion oscillator using the same principles as the [cz synths of the 80s](https://en.wikipedia.org/wiki/Phase_distortion_synthesis).
-Note that this module is monophonic.
+![](images/CzRider.PNG?raw=true)
 
+Two phase distortion oscillators using the same principles as the [cz synths of the 80s](https://en.wikipedia.org/wiki/Phase_distortion_synthesis).
+
+One is so simple that *itCz to use it* !
+
+The other one let you control all the oscillator's parameters and enjoy the *Knigh Rider* LEDs. You have to *see see* it !
+
+Note that these modules are monophonic.
