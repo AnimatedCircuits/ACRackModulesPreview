@@ -1,4 +1,4 @@
-# ACRackModulesPreview
+# Animated Circuits Preview plugin
 [VCV Rack](https://vcvrack.com/Rack.html) v1 modules
 
 This Rack plugin is composed of modules which are not distributed in open source form.
