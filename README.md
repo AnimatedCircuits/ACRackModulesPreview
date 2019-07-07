@@ -20,7 +20,7 @@ Note that these modules are monophonic.
 
 The [wiki pages](https://github.com/AnimatedCircuits/ACRackModulesPreview/wiki) give explanations regarding the modules.
 
-## Install
+## Installation
 Go to the [releases page](https://github.com/AnimatedCircuits/ACRackModulesPreview/releases) and download the zip file corresponding to the target OS and move it to the appropriate folder
 * On Mac Os : Documents/Rack/plugins-v1
 * On Windows : My Documents/Rack/plugins-v1
